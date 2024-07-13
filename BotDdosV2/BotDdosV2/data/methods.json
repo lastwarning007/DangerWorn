@@ -1,0 +1,6 @@
+{
+  "methods": {
+    "basic": ["HTTPS", "NOVA"],
+    "vip": ["TLS"]
+  }
+}

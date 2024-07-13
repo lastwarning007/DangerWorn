@@ -1,0 +1,10 @@
+[
+    {
+        "methods": "TLS",
+        "command": "cd /root/ && [SCREEN_CMD] ./Vulkanik GET [HOST] [TIME] 8 4 proxy.txt"
+    },
+    {
+        "methods": "STOP",
+        "command": "pkill -f [SCREEN_NAME]"
+    }
+]

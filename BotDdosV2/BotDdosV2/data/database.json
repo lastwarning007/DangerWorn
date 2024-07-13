@@ -1,0 +1,20 @@
+{
+    "userid": {
+        "5484071740": {
+            "exp": "2023-10-25",
+            "maxTime": 60,
+            "cooldown": 60,
+            "plans": "VIP",
+            "maxCons": 60,
+            "curCons": 0
+        },
+        "5484071840": {
+            "exp": "2025-09-01",
+            "maxTime": 100,
+            "plans": "BASIC",
+            "cooldown": 60,
+            "maxCons": 9999999,
+            "curCons": 3
+        }
+    }
+}
