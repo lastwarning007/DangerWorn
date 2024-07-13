@@ -7,7 +7,7 @@ try:
 except FileNotFoundError:
   config = {}
   
-bot = telebot.TeleBot(config['TOKEN'])
+bot = telebot.TeleBot(config['7466760045:AAF1E7sLjcu0VinF9LYIjzzs_Qm45l9lThA'])
 
 with open("./data/database.json") as e:
   db = json.load(e)
